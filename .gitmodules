@@ -1,0 +1,24 @@
+[submodule "JsonBox"]
+	path = JsonBox
+	url = https://github.com/anhero/JsonBox.git
+[submodule "hjson-cpp"]
+	path = hjson-cpp
+	url = https://github.com/hjson/hjson-cpp.git
+[submodule "tinyxml2"]
+	path = tinyxml2
+	url = https://github.com/leethomason/tinyxml2.git
+[submodule "jvar"]
+	path = jvar
+	url = https://github.com/YasserAsmi/jvar
+[submodule "jsoncpp"]
+	path = jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
+[submodule "json-voorhees"]
+	path = json-voorhees
+	url = https://github.com/tgockel/json-voorhees.git
+[submodule "yaml-cpp"]
+	path = yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "re2"]
+	path = re2
+	url = https://github.com/google/re2.git
