@@ -1,6 +1,6 @@
 # TestProjects
 
-This repository collects open-source programs used as experimental data in the paper submitted to ICSE 2024, titled "Taming the Beast: Fully Automated Unit Testing with Coyote C++." To replicate the experiments from the paper, you can run [**Coyote C++**](https://github.com/codemind-research/CoyoteCPP) with the following settings.
+This repository collects open-source programs. you can run [**Coyote C++**](https://github.com/codemind-research/CoyoteCPP) with the following settings.
 
 # How to get and use these projects
 
@@ -207,3 +207,7 @@ src/util/read.cpp
 src/util/parse.cpp
 src/util/sandbox.cpp
 ```
+
+## Test Results
+
+[Link to Result](result/html_report.md)
