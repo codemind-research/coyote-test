@@ -1,6 +1,6 @@
 # Test Results Report
 
-The following are the results of the tests conducted using Coyote C++ Enterprise version.
+The following are the results of the tests conducted using **Coyote C++ Enterprise**.
 
 ## 4.6.1
 

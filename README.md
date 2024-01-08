@@ -4,9 +4,7 @@ This repository collects open-source programs. you can run [**Coyote C++**](http
 
 ## Test Results
 
-You can view the results of the tests conducted with Coyote C++ at the following link.
-
-[Link to Result](result/html_report.md)
+You can view the results of the tests conducted with Coyote C++ at the following link. [[Link]](result/html_report.md)
 
 ## How to get and use these projects
 
