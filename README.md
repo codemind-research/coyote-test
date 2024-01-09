@@ -1,6 +1,6 @@
 # COYOTE TEST
 
-This repository collects open-source programs. you can run [**Coyote C++**](https://github.com/codemind-research/CoyoteCPP) with the following settings.
+This repository collects open-source programs. you can run [**Coyote C++**](http://codemind.io) with the following settings.
 
 ## Test Results
 
