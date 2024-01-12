@@ -1,6 +1,6 @@
 # COYOTE TEST
 
-This repository collects open-source programs. you can run [**Coyote C++**](http://codemind.io) with the following settings.
+This repository collects open-source programs. You can run [**Coyote C++**](http://codemind.io) with the following settings.
 
 ## Test Results
 
@@ -24,8 +24,6 @@ git clone https://github.com/codemind-research/TestProjects.git
 cd TestProjects
 
 git submodule update --init --recursive
-
-./build.sh
 ```
 
 ### Build
@@ -48,8 +46,10 @@ It is essential to configure the following settings when using this tool for tes
 `This option should be applied uniformly to all test projects.`
 
 > [!WARNING]
-> If you do not execute the command at the top, issues may arise during testing. Please be sure to run the preceding command first.
-> If you modify any settings other than those explained in the bottom section on the Project Settings page, it may cause issues during test runs. Therefore, please follow the instructions below for the configuration excluding the ones described.
+> Follow the steps below to configure the project:
+> <br> &nbsp; &nbsp; 1.**Git Commands**: [Clone the project and update submodules.](#from-sources) <br> &nbsp; &nbsp; 2.**Run the Build Script**: [Build the project.](#build)
+>
+> Failure to execute the commands at the top may prevent Coyote C++ from initiating tests, causing potential issues during testing. Additionally, modifying settings other than those explained in the bottom section of the Project Settings page might lead to problems during test runs. Therefore, proceed with caution and strictly adhere to the provided instructions.
 
 <br>
 
@@ -66,12 +66,11 @@ It is essential to configure the following settings when using this tool for tes
   <br>
   Performance Criteria : Balanced
   <br>
-  Parallel Settings : Maximum
   ![](./img/test_setting.png)
 
 ## **Select list**
 
-**Coyote C++** can currently calculate accurate coverage only for the build files. Below is a list of files to build in each project. Please apply this list to the **SELECT** dialog.
+**Coyote C++** can currently calculate accurate coverage only for buildable files. Below is a list of files to build in each project. Please apply this list to the **SELECT** dialog.
 ![](./img/select_list.png)
 
 ### JsonBox
