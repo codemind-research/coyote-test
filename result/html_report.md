@@ -1,7 +1,7 @@
 # Test Results Report
 
 The following are the results of the tests conducted using **Coyote C++ Enterprise**.
-해당 유닛테스트는 소스코드를 개발한 개발자가 직접 작성한 유닛테스트이며
+Unit Test Report는 소스코드를 개발한 개발자가 직접 작성한 유닛테스트 파일을 실행하고 lcov를 사용해 만들어낸 결과이며 binary레벨에서 테스트를 진행하기 때문에 테스트 결과에 대한 모수가 다를 수 있습니다.
 
 ## 4.6.1
 
