@@ -1,4 +1,12 @@
 # Test Results Report
+<style>
+    table tr td:nth-child(5),
+    table tr:nth-child(2) td:nth-child(3),
+    table tr:nth-child(1) th:nth-child(3)
+    {
+        padding-left: 3vw;
+    }
+</style>
 
 <table>
     <tr>
