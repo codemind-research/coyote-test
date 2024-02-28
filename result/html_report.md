@@ -38,9 +38,7 @@
             Coyote C++ Test Date
         </td>
         <td style="background-color: rgba(255, 255, 255, 0.8); color: black;">
-            <div style="background-color: rgba(255, 255, 255, 0.8); color: black;">
-                Project Name
-            </div>
+            Project Name
         </td>
         <td style="background-color: rgba(255, 255, 255, 0.8); color: black;">
             Git Hash
