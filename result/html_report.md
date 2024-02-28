@@ -26,7 +26,7 @@
     <tr>
         <td colspan="2">
             <strong>
-                코요테 테스트 결과는 직접 테스트 코드를 작성하여 테스트한 것이 아닌 UI에서 원클릭으로 자동 테스트한 결과입니다.
+                These test results were obtained through one-click fully automated testing, without using any manually written test code.
             </strong>
         </td>
     </tr>
