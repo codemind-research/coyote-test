@@ -15,6 +15,7 @@
         <td colspan="2">
             The following are the results of the tests conducted using <strong>Coyote C++ Enterprise</strong>.
             <br>
+            <br>
             <em>
                 <strong>
                     These test results were obtained through one-click fully automated testing, without using any manually written test code.
