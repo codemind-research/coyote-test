@@ -88,6 +88,16 @@ It is essential to configure the following settings when using this tool for tes
   <br>
   ![](./img/test_setting.png)
 
+> **Add Global Header File**
+
+- Go to Project **Setting > Build General Settings > Add Global Header File**.
+
+> [!NOTE]
+> If you want to run jvar project on a system where GCC version 12 or higher is installed, you need to add the **time.h** header file in the Coyote C++ project settings.
+> - Add **time.h** header file.
+
+![](./img/add_global_header_jvar.png)
+
 ### **Select list**
 
 **Coyote C++** can currently calculate accurate coverage only for buildable files. Below is a list of files to build in each project. Please apply this list to the **SELECT** dialog.
